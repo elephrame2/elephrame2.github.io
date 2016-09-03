@@ -15,18 +15,25 @@ body {
   margin-bottom: 10px;
 }
 .elephant-nav{
-  background-color: #f3d661 !important;
-  border-color: #f3d661 !important;
+  background-color: white !important;
+  border-color: #b2b2b2 !important;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: black;
+    background-color: #b2b2b2;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: black;
 }
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #f3d661;
+    background-color: white;
 
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: #f3d661;
+    border-color: white;
 }
 .navbar-inverse .navbar-toggle {
-    border-color: #f3d661;
+    border-color: white;
 }
 
 .header-image {
@@ -173,6 +180,74 @@ footer{
 }
 /*/////*/
 
+/*third page*/
+
+.pic3-1{
+  background: url('../img/3-1.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 535px;
+}
+.b3-1{
+  margin-left: 4vw;
+  text-align: left;
+}
+.s3-1{
+  margin-top: 30px;
+  margin-left: 4vw;
+  text-align: left;
+}
+.special3-2-1{
+  font-weight: 200 !important;
+  font-size: 20px !important;
+  margin-top: -90px;
+  margin-left: -31vw;
+  text-align: center;
+  color: grey;
+}
+.special3-2-2{
+  font-weight: 200 !important;
+  font-size: 20px !important;
+  margin-left: 36vw;
+  margin-top: -100px;
+  text-align: center;
+  color: grey;
+}
+
+.pic3-2{
+  background: url('../img/3-2.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 535px;
+}
+.b3-2{
+  margin-left: 4vw;
+  text-align: left;
+}
+.s3-2{
+  margin-left: -39vw;
+  text-align: center;
+}
+.pic3-3{
+  background: url('../img/3-3.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 535px;
+}
+.s3-3{
+  margin-top: 30px;
+  margin-left: 4vw;
+  text-align: left;
+}
+/*/////*/
+
+
 .headline {
     padding: 120px 0;
 }
@@ -291,6 +366,10 @@ footer{
 
     .b1-2{
       margin-left: 1vw;
+    }
+    .special3-2-1{
+      margin-left: 2vw;
+    margin-top: -26px;
     }
 }
 

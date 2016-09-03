@@ -17,23 +17,30 @@ export default StyleSheet.create({
         "marginBottom": 10
     },
     "elephant-nav": {
-        "backgroundColor": "#f3d661 !important",
-        "borderColor": "#f3d661 !important"
+        "backgroundColor": "white !important",
+        "borderColor": "#b2b2b2 !important"
+    },
+    "navbar-inverse navbar-nav>li>a:hover": {
+        "color": "black",
+        "backgroundColor": "#b2b2b2"
+    },
+    "navbar-inverse navbar-toggle icon-bar": {
+        "backgroundColor": "black"
     },
     "navbar-inverse navbar-toggle:focus": {
-        "backgroundColor": "#f3d661"
+        "backgroundColor": "white"
     },
     "navbar-inverse navbar-toggle:hover": {
-        "backgroundColor": "#f3d661"
+        "backgroundColor": "white"
     },
     "navbar-inverse navbar-collapse": {
-        "borderColor": "#f3d661"
+        "borderColor": "white"
     },
     "navbar-inverse navbar-form": {
-        "borderColor": "#f3d661"
+        "borderColor": "white"
     },
     "navbar-inverse navbar-toggle": {
-        "borderColor": "#f3d661"
+        "borderColor": "white"
     },
     "header-image": {
         "display": "block",
@@ -169,6 +176,68 @@ export default StyleSheet.create({
         "height": 535
     },
     "s2-3": {
+        "marginTop": 30,
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
+    "pic3-1": {
+        "background": "url('../img/3-1.jpg') no-repeat center center scroll",
+        "WebkitBackgroundSize": "cover",
+        "MozBackgroundSize": "cover",
+        "backgroundSize": "cover",
+        "OBackgroundSize": "cover",
+        "height": 535
+    },
+    "b3-1": {
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
+    "s3-1": {
+        "marginTop": 30,
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
+    "special3-2-1": {
+        "fontWeight": "200 !important",
+        "fontSize": "20px !important",
+        "marginTop": -90,
+        "marginLeft": -31 * vw,
+        "textAlign": "center",
+        "color": "grey"
+    },
+    "special3-2-2": {
+        "fontWeight": "200 !important",
+        "fontSize": "20px !important",
+        "marginLeft": 36 * vw,
+        "marginTop": -100,
+        "textAlign": "center",
+        "color": "grey"
+    },
+    "pic3-2": {
+        "background": "url('../img/3-2.jpg') no-repeat center center scroll",
+        "WebkitBackgroundSize": "cover",
+        "MozBackgroundSize": "cover",
+        "backgroundSize": "cover",
+        "OBackgroundSize": "cover",
+        "height": 535
+    },
+    "b3-2": {
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
+    "s3-2": {
+        "marginLeft": -39 * vw,
+        "textAlign": "center"
+    },
+    "pic3-3": {
+        "background": "url('../img/3-3.jpg') no-repeat center center scroll",
+        "WebkitBackgroundSize": "cover",
+        "MozBackgroundSize": "cover",
+        "backgroundSize": "cover",
+        "OBackgroundSize": "cover",
+        "height": 535
+    },
+    "s3-3": {
         "marginTop": 30,
         "marginLeft": 4 * vw,
         "textAlign": "left"
