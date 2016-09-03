@@ -246,7 +246,72 @@ footer{
   text-align: left;
 }
 /*/////*/
+/*last page*/
 
+.pic4-1{
+  background: url('../img/4-1.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 535px;
+}
+.b4-1{
+  margin-left: 4vw;
+  text-align: left;
+}
+.s4-1{
+  margin-top: 30px;
+  margin-left: 4vw;
+  text-align: left;
+}
+.special4-2-1{
+  font-weight: 200 !important;
+  font-size: 20px !important;
+  margin-top: -90px;
+  margin-left: -31vw;
+  text-align: center;
+  color: grey;
+}
+.special4-2-2{
+  font-weight: 200 !important;
+  font-size: 20px !important;
+  margin-left: 36vw;
+  margin-top: -100px;
+  text-align: center;
+  color: grey;
+}
+
+.pic4-2{
+  background: url('../img/4-2.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 535px;
+}
+.b4-2{
+  margin-left: 4vw;
+  text-align: left;
+}
+.s4-2{
+  margin-left: -39vw;
+  text-align: center;
+}
+.pic4-3{
+  background: url('../img/4-3.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 535px;
+}
+.s4-3{
+  margin-top: 30px;
+  margin-left: 4vw;
+  text-align: left;
+}
+/*/////*/
 
 .headline {
     padding: 120px 0;

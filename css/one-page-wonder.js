@@ -242,6 +242,68 @@ export default StyleSheet.create({
         "marginLeft": 4 * vw,
         "textAlign": "left"
     },
+    "pic4-1": {
+        "background": "url('../img/4-1.jpg') no-repeat center center scroll",
+        "WebkitBackgroundSize": "cover",
+        "MozBackgroundSize": "cover",
+        "backgroundSize": "cover",
+        "OBackgroundSize": "cover",
+        "height": 535
+    },
+    "b4-1": {
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
+    "s4-1": {
+        "marginTop": 30,
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
+    "special4-2-1": {
+        "fontWeight": "200 !important",
+        "fontSize": "20px !important",
+        "marginTop": -90,
+        "marginLeft": -31 * vw,
+        "textAlign": "center",
+        "color": "grey"
+    },
+    "special4-2-2": {
+        "fontWeight": "200 !important",
+        "fontSize": "20px !important",
+        "marginLeft": 36 * vw,
+        "marginTop": -100,
+        "textAlign": "center",
+        "color": "grey"
+    },
+    "pic4-2": {
+        "background": "url('../img/4-2.jpg') no-repeat center center scroll",
+        "WebkitBackgroundSize": "cover",
+        "MozBackgroundSize": "cover",
+        "backgroundSize": "cover",
+        "OBackgroundSize": "cover",
+        "height": 535
+    },
+    "b4-2": {
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
+    "s4-2": {
+        "marginLeft": -39 * vw,
+        "textAlign": "center"
+    },
+    "pic4-3": {
+        "background": "url('../img/4-3.jpg') no-repeat center center scroll",
+        "WebkitBackgroundSize": "cover",
+        "MozBackgroundSize": "cover",
+        "backgroundSize": "cover",
+        "OBackgroundSize": "cover",
+        "height": 535
+    },
+    "s4-3": {
+        "marginTop": 30,
+        "marginLeft": 4 * vw,
+        "textAlign": "left"
+    },
     "headline": {
         "paddingTop": 120,
         "paddingRight": 0,
